@@ -47,6 +47,7 @@ dependencies:
   sizer: 
   excel:
   file_picker:
+  csv:
 
 
 dev_dependencies:
